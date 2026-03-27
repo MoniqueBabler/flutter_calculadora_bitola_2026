@@ -3,7 +3,8 @@
 Projeto basico aprendendo flutter, calculadora de bitola de cabos elétricos.
 
 #Prints
-![Print01](./assets/print01.png)
+![Print1](./assets/print1.png)
+![Print02](./assets/print02.png)
 
 ## Tecnologias
 - Flutter
